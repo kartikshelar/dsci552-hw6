@@ -1,0 +1,14 @@
+# OS / editor artifacts
+*~
+.DS_Store
+Thumbs.db
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Data archive (the extracted folder is kept)
+Homework 6 Data.zip
